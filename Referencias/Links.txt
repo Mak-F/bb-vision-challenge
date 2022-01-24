@@ -1,0 +1,17 @@
+https://qastack.mx/programming/20986631/how-can-i-scroll-a-web-page-using-selenium-webdriver-in-python / (Scroll en selenium)
+
+https://stackoverflow.com/questions/50252138/selenium-w-python3-attributeerror-str-object-has-no-attribute-tag-name / (Error de sintaxis)
+
+https://groups.google.com/g/webdriver/c/Q2risym99nI / (Problema de overlay en selenium)
+
+https://stackoverflow.com/questions/59016107/is-stale-either-the-element-is-no-longer-attached-to-the-dom-it-is-not-in-the / (Problema cambio de DOM)
+
+https://stackoverflow.com/questions/56338637/how-to-access-the-li-items-using-selenium-webdriver / (Identificar cada li individualmente)
+
+https://stackoverflow.com/questions/49921128/selenium-cant-click-element-because-other-element-obscures-it / (Error overlay "element obscures it")
+
+https://pythonbros.com/leer-csv-con-pandas/#:~:text=Leer%20CSV%20con%20Pandas,declarar%20el%20delimitador%20como%20coma. / (Duda pandas)
+
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_csv.html / (Función dataframe)
+
+https://stackoverflow.com/questions/25978327/selenium-why-does-minimized-browser-give-element-not-found-error-whereas-max-do / (Problema de interacción con el navegador minimizado)

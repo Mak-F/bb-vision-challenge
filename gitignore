@@ -1,0 +1,14 @@
+#VSCODE
+.vs
+.vscode
+
+#PYTHON
+__pycache__
+*.pyc
+*/*.pyc
+
+#ENV
+env
+
+#FILES
+geckodriver.log
